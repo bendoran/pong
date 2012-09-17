@@ -7,3 +7,11 @@ bin-release/
 .flexProperties
 .settings/
 .project
+
+html-template
+html-template/*
+
+.pydevproject
+
+*/.DS_Store
+.DS_Store
